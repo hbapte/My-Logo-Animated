@@ -3,6 +3,6 @@ anime({
     strokeDashoffset: [anime.setDashoffset, 0],
     easing: 'easeInOutQuad',
     duration: 2500,
-    // loop: true,
+    loop: true,
     direction: 'normal'
 })
